@@ -7,7 +7,6 @@ namespace projekt1
 {
     class NewClass
     {
-        int b;
     }
 }
 
