@@ -5,6 +5,7 @@ using System.Text;
 
 namespace projekt1
 {
+   
     class Program
     {
         static void Main(string[] args)
