@@ -10,3 +10,5 @@ namespace projekt1
         int b;
     }
 }
+
+#Opet ja
